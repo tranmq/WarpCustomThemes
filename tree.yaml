@@ -1,0 +1,31 @@
+
+accent: 
+  left: '#caa9fa'
+  right: '#8d63ca'
+background:
+  top: '#211046'
+  bottom: '#030008'
+background_image:
+  path: 'tree.jpg'
+  opacity: 20
+details: darker
+foreground: '#f8f8f2'
+terminal_colors:
+  bright:
+    black: '#282a35'
+    blue: '#caa9fa'
+    cyan: '#9aedfe'
+    green: '#5af78e'
+    magenta: '#ff92d0'
+    red: '#ff6e67'
+    white: '#e6e6e6'
+    yellow: '#f4f99d'
+  normal:
+    black: '#000000'
+    blue: '#caa9fa'
+    cyan: '#8be9fd'
+    green: '#50fa7b'
+    magenta: '#ff79c6'
+    red: '#ff5555'
+    white: '#bfbfbf'
+    yellow: '#f1fa8c'
