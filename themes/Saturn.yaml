@@ -1,0 +1,32 @@
+
+accent: 
+  left: '#0a3956'
+  right: '#1BA6FA'
+background:
+  top: '#111116' 
+  bottom: '#292C3E'
+background_image:
+  # https://images.nasa.gov/details-PIA20498
+  path: 'Saturn.jpeg'
+  opacity: 85
+details: darker
+foreground: '#EBEBEB'
+terminal_colors:
+  bright:
+    black: '#6D7070'
+    blue: '#7abae0'
+    cyan: '#47dde8'
+    green: '#b4e062'
+    magenta: '#a881dd'
+    red: '#d8736b'
+    white: '#FEFEF8'
+    yellow: '#efce64'
+  normal:
+    black: '#0d0d0d'
+    blue: '#517f9a'
+    cyan: '#33a4ad'
+    green: '#84a745'
+    magenta: '#7a5ca2'
+    red: '#a25953'
+    white: '#EBEBEB'
+    yellow: '#e5ba2f'

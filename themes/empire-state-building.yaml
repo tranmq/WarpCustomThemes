@@ -1,0 +1,32 @@
+
+accent: 
+  top: '#5299bf'
+  bottom: '#126998'
+background: 
+  top: '#091c3e'
+  bottom: '#050a13'
+details: darker
+background_image:
+  path: empire-state-building.jpg
+  opacity: 30
+foreground: '#c2b1b1'
+
+terminal_colors:
+  bright:
+    black: '#717885'
+    blue: '#9a99a3'
+    cyan: '#b08060'
+    green: '#2a3448'
+    magenta: '#dbdde0'
+    red: '#f0a000'
+    white: '#ffffff'
+    yellow: '#4d5666'
+  normal:
+    black: '#061229'
+    blue: '#5299bf'
+    cyan: '#72a6bf'
+    green: '#8fb051'
+    magenta: '#9989cc'
+    red: '#d04646'
+    white: '#b8bbc2'
+    yellow: '#fbd461'
